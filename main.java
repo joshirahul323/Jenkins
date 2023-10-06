@@ -1,6 +1,6 @@
-class sample{
+class main{
 	public static void main(String args[]){
-		System.out.println("Hello & Welcome Rahul");
+		System.out.println("Hello & Welcome Jenkins");
 	}
 }
 
